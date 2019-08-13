@@ -2,7 +2,7 @@ Title of the Project : Basic Calculator (BC)
 Name : Hozefa Shabbir Husain Patanwala
 MIS ID : 111603022
 
-This program is a Basic Calculator which handles very large inputs, not handled by C data types like 'long long'.
+This is a programming language called Basic Calculator which handles very large inputs, not handled by C data types like 'long long'.
 It is very fast and gives output in seconds.
 It handles unary minus and decimal points.
 A space or tab should be entered before and after every operator or operand.
